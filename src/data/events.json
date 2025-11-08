@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Team Meeting",
+    "date": "2025-11-10",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "color": "#4285f4"
+  },
+  {
+    "title": "Annual Team Building Workshop Session",
+    "date": "2025-11-10",
+    "startTime": "14:00",
+    "endTime": "15:30",
+    "color": "#ea4335"
+  },
+  {
+    "title": "Client Call",
+    "date": "2025-11-12",
+    "startTime": "09:00",
+    "endTime": "09:30",
+    "color": "#34a853"
+  },
+  {
+    "title": "Lunch Break",
+    "date": "2025-11-12",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "color": "#fbbc04"
+  },
+  {
+    "title": "Design Workshop",
+    "date": "2025-11-15",
+    "startTime": "13:00",
+    "endTime": "15:00",
+    "color": "#ff6d00"
+  },
+  {
+    "title": "Code Review",
+    "date": "2025-11-18",
+    "startTime": "11:00",
+    "endTime": "11:45",
+    "color": "#46bdc6"
+  },
+  {
+    "title": "Sprint Planning",
+    "date": "2025-11-20",
+    "startTime": "10:00",
+    "endTime": "12:00",
+    "color": "#7986cb"
+  },
+  {
+    "title": "Training Session",
+    "date": "2025-11-20",
+    "startTime": "10:30",
+    "endTime": "12:00",
+    "color": "#e91e63"
+  },
+  {
+    "title": "1:1 Meeting with Manager",
+    "date": "2025-11-22",
+    "startTime": "15:00",
+    "endTime": "15:30",
+    "color": "#9c27b0"
+  },
+  {
+    "title": "Product Demo",
+    "date": "2025-11-25",
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "color": "#0b8043"
+  },
+  {
+    "title": "Weekly Standup",
+    "date": "2025-11-08",
+    "startTime": "09:00",
+    "endTime": "09:15",
+    "color": "#039be5"
+  },
+  {
+    "title": "Documentation Review",
+    "date": "2025-11-08",
+    "startTime": "09:30",
+    "endTime": "10:30",
+    "color": "#d50000"
+  },{
+    "title": "Product Demo",
+    "date": "2025-11-08",
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "color": "#0b8043"
+  },{
+    "title": "Product Demo",
+    "date": "2025-11-08",
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "color": "#0b8043"
+  }
+]
